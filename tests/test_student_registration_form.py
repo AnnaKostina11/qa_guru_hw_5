@@ -1,5 +1,4 @@
 import os
-import pytest
 from selene import browser, have
 
 def test_student_registration_forme():
